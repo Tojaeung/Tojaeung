@@ -4,7 +4,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tojaeung)](https://github.com/anuraghazra/github-readme-stats)<br>
 <div align="center">✨Tech stack✨</div>
 
-<div {{style= display:flex, justify-content: center}}>
+<div {{style= display:flex; justify-content: center;}}>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>
