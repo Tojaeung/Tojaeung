@@ -9,13 +9,12 @@
 
 그리고, 몇 개월의 공부와 개발기간을 거쳐 배포까지 성공하였습니다.
 
-현재는 java, spring에 관심을 가지고 있습니다.(자바공화국...ㅠ)
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tojaeung)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tojaeung)](https://github.com/anuraghazra/github-readme-stats)<br>
+# Skills
+## algorithm
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tojaeung)](https://solved.ac/tojaeung)
-# Skills
 ## languege
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypesScript&logoColor=white"/></a>
@@ -48,5 +47,4 @@
 
 # Certification
 준비중..
-# Algorithm Study
-준비중..
+
