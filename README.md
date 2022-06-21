@@ -33,7 +33,7 @@
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AWS&logoColor=white"/></a>
 
 # Project
-[그림러들 - 그림 그리는것을 좋아하는 사람들의 모임](https://grimlerdl.com)
+[그림러들 - 그림 그리는것을 좋아하는 사람들의 모임](https://grimlerdl.net)
 
 * 개발기간: 2022년 1월 ~ 5월
 * 운영기간: 2022년 6월 ~
