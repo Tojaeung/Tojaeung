@@ -42,7 +42,6 @@
 [프로젝트 확인하러가기](https://github.com/Tojaeung/web-character-project)
 
 # Education
-* 청주대학교 중국통상학과
 * 2022 10월 Hello World 프로그래밍 공부 시작 !!
 
 # Certification
